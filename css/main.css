@@ -17,7 +17,10 @@ header {
 }
 
 main{
+  font-family: Georgia, serif;
   margin:10px;
+  color: #2f2d13;
+
 }
  body{
    margin: 0;
@@ -59,7 +62,7 @@ border-radius: 5px;
 }
 
 .nav a:hover{
-  background-color: #b20953;
+  background-color: #cc1465;
 }
 
 .nav .current{
